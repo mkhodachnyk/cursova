@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<surface>
+<formula x="(1-0.1*cos(t))*cos(u)*200" y="(1-0.1*cos(t))*sin(u)*200" z="0.1*(sin(t)+u/1.7-10)*200"/>
+<boundU end="10 * pi" start="0"/>
+<boundT end="2 * pi" start="0"/>
+<count t="45" u="45"/>
+</surface>

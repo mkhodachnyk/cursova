@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<surface>
+<formula x="cos(u)*u*(1+cos(t)/2)*50" y="sin(t)*u/2*50" z="sin(u)*u*(1+cos(t)/2)*50"/>
+<boundU end="2 * pi" start="0"/>
+<boundT end="2 * pi" start="0"/>
+<count t="45" u="45"/>
+</surface>
